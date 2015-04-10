@@ -12,3 +12,5 @@ Link (https://github.com/42cs/AutoLogin-Chrome-Extension/archive/master.zip)
 - Enable developer mode
 - Load Upacked Extension > Point it to the folder you extracted
 
+
+The solution is availble - I'll add directions on how to access it later. 
